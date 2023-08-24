@@ -1,2 +1,1 @@
-# play_with_ruby
-First Ruby repo
+Use Ruby syntax for basic programming operations.
